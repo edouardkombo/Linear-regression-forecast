@@ -1,7 +1,6 @@
 # Simple Linear Regression prediction for trading markets
 This was my first prediction model in Python for my Phoenix Cartel expert advisors, before I:
 - moved to Metatrader historical data
-- used more accurate Arima model (auto-regressive integrated moving average)
 - started neural networks for self learning robots
 
 Overall, you will reach an accuracy of 85-90% on next day (high, low, close) price, depending on your risk strategy.
